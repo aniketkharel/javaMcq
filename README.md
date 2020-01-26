@@ -1,8 +1,7 @@
 # DEMO OF APPLICATION YO HO 
-[a link](https://www.youtube.com/embed/n3fKo7vQ89M)
+[YouTube Link](https://www.youtube.com/embed/n3fKo7vQ89M)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n3fKo7vQ89M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/n3fKo7vQ89M)
 
 
 
