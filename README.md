@@ -4,7 +4,7 @@
 
 # DATABASE STRUCTURE AND RELATION
 
-[![CLICK GARNU HOLA](https://user-images.githubusercontent.com/49165465/73133417-58d2e900-4050-11ea-85ae-f7d9ff429e7e.PNG)]
+![CLICK GARNU HOLA](https://user-images.githubusercontent.com/49165465/73133417-58d2e900-4050-11ea-85ae-f7d9ff429e7e.PNG)
 
 
 # javaMcq
